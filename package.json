@@ -50,7 +50,7 @@
     "rollup-plugin-svelte": "^5.1.0",
     "rollup-plugin-terser": "^5.1.2",
     "rollup-plugin-typescript2": "0.25.3",
-    "svelte": "^3.16.0",
+    "svelte": "^3.49.0",
     "svelte-preprocess": "^3.1.1",
     "svelte-type-checker": "^0.1.4",
     "ts-jest": "^24.0.2",
